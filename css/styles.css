@@ -231,22 +231,22 @@ body.overlay-open {
   }
 }
 
-.sparkle-stars path {
+#stars path {
   animation-name: sparkle-animation;
   animation-duration: 1.5s;
   animation-timing-function: linear;
   animation-iteration-count: infinite;
 }
 
-.sparkle-stars #top {
+#stars #top {
   animation-delay: 0s;
 }
 
-.sparkle-stars #right {
+#stars #right {
   animation-delay: 0.2s;
 }
 
-.sparkle-stars #left {
+#stars #left {
   animation-delay: 0.4s;
 }
 
