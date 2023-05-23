@@ -218,6 +218,7 @@ body.overlay-open {
 
 #play-button{
   max-width: 90px;
+  display: flex;
 }
 @keyframes sparkle-animation {
   0% {
